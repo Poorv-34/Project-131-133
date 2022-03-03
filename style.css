@@ -1,0 +1,13 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+a
+{
+    font-size: 15px;
+    width: 400px;
+    border-radius: 25px;
+    background-color: aquamarine;
+    color: goldenrod;
+
+}
